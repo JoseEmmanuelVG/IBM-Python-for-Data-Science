@@ -24,7 +24,7 @@ The course is designed to introduce beginners to **Python programming** with a f
 
 ### [Module 2: Data Structures](./Module_2_Data_Structures/)
 - [`2.1_data_structures_notes.md`](./Module_2_Data_Structures/2.1_data_structures_notes.md)
-- `2.1_data_structures_quizz.ipynb`
+- `PY0101EN-2-1-Tuples.ipynb`; `PY0101EN-2-2-Lists.ipynb`: *Reference notebook Course(not uploaded publicly)*
 
 ### [Module 3: Functions](./Module_3_Functions/)
 - [`3.1_functions_notes.md`](./Module_3_Functions/3.1_functions_notes.md)
