@@ -24,11 +24,13 @@ The course is designed to introduce beginners to **Python programming** with a f
 
 ### [Module 2: Data Structures](./Module_2_Data_Structures/)
 - [`2.1_data_structures_notes.md`](./Module_2_Data_Structures/2.1_data_structures_notes.md)
-- `PY0101EN-2-1-Tuples.ipynb` ; `PY0101EN-2-2-Lists.ipynb` ; `PY0101EN-2.2_notebook_quizz_sets.ipynb` ; `PY0101EN-2-3-Sets.ipynb` ; `PY0101EN-2.3_notebook_quizz_dictioary.ipynb` ; `PY0101EN-2-4-Dictionaries.ipynb`  *Reference notebook Course(not uploaded publicly)*
+- `PY0101EN-2-1-Tuples.ipynb` ; `PY0101EN-2-2-Lists.ipynb` ; `PY0101EN-2.2_notebook_quizz_sets.ipynb` ; `PY0101EN-2-3-Sets.ipynb` ; `PY0101EN-2.3_notebook_quizz_dictioary.ipynb` ; `PY0101EN-2-4-Dictionaries.ipynb`: *Reference notebook Course(not uploaded publicly)*
 
 ### [Module 3: Functions](./Module_3_Functions/)
 - [`3.1_functions_notes.md`](./Module_3_Functions/3.1_functions_notes.md)
-- `3.1_functions_quizz.ipynb`
+- `PY0101EN-3.1_notebook_quizz_Conditions_and_Branching.ipynb` ; `PY0101EN-3-1-Conditions.ipynb` ; `PY0101EN-3.2_notebook_quizz_Loops.ipynb` ; `PY0101EN-3-2-Loops.ipynb` ; `PY0101EN-3.3_notebook_quizz_functions.ipynb` ; `PY0101EN-3-3-Functions-jupyterlite.ipynb` ; `PY0101EN-3.4_notebook_quizz_objects.ipynb` ; `PY0101EN-3-4-Classes.ipynb` ; `3-1 2ExcecptionHandling.ipynb`: *Reference notebook Course(not uploaded publicly)*
+
+
 
 ### [Module 4: Working with Data](./Module_4_Working_with_Data/)
 - [`4.1_working_with_data_notes.md`](./Module_4_Working_with_Data/4.1_working_with_data_notes.md)
