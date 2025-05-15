@@ -23,7 +23,7 @@ The course is designed to introduce beginners to **Python programming** with a f
 - `PY0101EN_1.2_notebook_quizz_types.ipynb` ; `PY0101EN-1-1-Write_your_first_python_code.ipynb` ; `PY0101EN-1-2-Strings.ipynb` ; `PY0101EN-1-3-notebook_quizz_String_Operations.ipynb` ; `PY0101EN-1.1_notebook_quizz.ipynb`: *Reference notebook Course(not uploaded publicly)*
 
 ### [Module 2: Data Structures](./Module_2_Data_Structures/)
-- [`2.1_data_structures_notes.md`](./Module_2_Data_Structures/2.1_data_structures_notes.md)
+- [`2.1_data_structures_notes.md`](./Module_2_Data_Structures/2.1_data_structures_notes.md) : [`2.1_JupyterNotebook`](./Module_2_Data_Structures/2.1_data_structures_notes.ipynb): Notes and explanations
 - `PY0101EN-2-1-Tuples.ipynb` ; `PY0101EN-2-2-Lists.ipynb` ; `PY0101EN-2.2_notebook_quizz_sets.ipynb` ; `PY0101EN-2-3-Sets.ipynb` ; `PY0101EN-2.3_notebook_quizz_dictioary.ipynb` ; `PY0101EN-2-4-Dictionaries.ipynb`: *Reference notebook Course(not uploaded publicly)*
 
 ### [Module 3: Functions](./Module_3_Functions/)
