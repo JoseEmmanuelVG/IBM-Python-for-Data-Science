@@ -33,7 +33,7 @@ The course is designed to introduce beginners to **Python programming** with a f
 
 
 ### [Module 4: Working with Data](./Module_4_Working_with_Data/)
-- [`4.1_working_with_data_notes.md`](./Module_4_Working_with_Data/4.1_working_with_data_notes.md)
+- [`4.1_working_with_data_notes.md`](./Module_4_Working_with_Data/4.1_working_with_data_notes.md); [`4.1_JupyterNotebook`](./Module_3_Functions/4.1_working_with_data_notes.ipynb): Notes and explanations
 - `PY0101EN-4-1-ReadFile.ipynb` ; `PY0101EN-4-2-WriteFile.ipynb` ; `PY0101EN-4.3_notebook_quizz_pandas.ipynb` ; `PY0101EN-4.4_notebook_quizz_pandas.ipynb` ;
 - `PY0101EN-4-3-LoadData.ipynb` ;
 
