@@ -30,14 +30,12 @@ The course is designed to introduce beginners to **Python programming** with a f
 - [`3.1_functions_notes.md`](./Module_3_Functions/3.1_functions_notes.md): [`3.1_JupyterNotebook`](./Module_3_Functions/3.1_functions_notes.ipynb): Notes and explanations
 - `PY0101EN-3.1_notebook_quizz_Conditions_and_Branching.ipynb` ; `PY0101EN-3-1-Conditions.ipynb` ; `PY0101EN-3.2_notebook_quizz_Loops.ipynb` ; `PY0101EN-3-2-Loops.ipynb` ; `PY0101EN-3.3_notebook_quizz_functions.ipynb` ; `PY0101EN-3-3-Functions-jupyterlite.ipynb` ; `PY0101EN-3.4_notebook_quizz_objects.ipynb` ; `PY0101EN-3-4-Classes.ipynb` ; `3-1 2ExcecptionHandling.ipynb`: *Reference notebook Course(not uploaded publicly)*
 
-
-
 ### [Module 4: Working with Data](./Module_4_Working_with_Data/)
 - [`4.1_working_with_data_notes.md`](./Module_4_Working_with_Data/4.1_working_with_data_notes.md); [`4.1_JupyterNotebook`](./Module_3_Functions/4.1_working_with_data_notes.ipynb): Notes and explanations
 - `PY0101EN-4-1-ReadFile.ipynb` ; `PY0101EN-4-2-WriteFile.ipynb` ; `PY0101EN-4.3_notebook_quizz_pandas.ipynb` ; `PY0101EN-4.4_notebook_quizz_pandas.ipynb` ; `PY0101EN-4-3-LoadData.ipynb` ;
 
-### [Module 5: Python Libraries for Data Science](./Module_5_Libraries/)
-- [`5.1_libraries_notes.md`](./Module_5_Libraries/5.1_libraries_notes.md)
+### [Module 5: Python Libraries for Data Science](./Module_5_Working_with_NumpyArrays&SimpleAPIs/)
+- [`5.1_libraries_notes.md`](./Module_5_Libraries/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md)
 - `PY0101EN-5.1_notebook_quizz_numpy1d.ipynb` ; `PY0101EN-5-1-Numpy1D.ipynb` ; `PY0101EN-5.2_notebook_quizz_numpy.ipynb` ; `PY0101EN-5-2-Numpy2D.ipynb` ; `PY0101EN-5 3_Requests_HTTP.ipynb` ; `PY0101EN-5 2_API_2 v2.ipynb` ; `` 
 
 ---
