@@ -35,7 +35,7 @@ The course is designed to introduce beginners to **Python programming** with a f
 - `PY0101EN-4-1-ReadFile.ipynb` ; `PY0101EN-4-2-WriteFile.ipynb` ; `PY0101EN-4.3_notebook_quizz_pandas.ipynb` ; `PY0101EN-4.4_notebook_quizz_pandas.ipynb` ; `PY0101EN-4-3-LoadData.ipynb` ;
 
 ### [Module 5: Python Libraries for Data Science](./Module_5_Working_with_NumpyArrays&SimpleAPIs/)
-- [`5.1_libraries_notes.md`](./Module_5_Libraries/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md)
+- [`5.1_libraries_notes.md`](./Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md)
 - `PY0101EN-5.1_notebook_quizz_numpy1d.ipynb` ; `PY0101EN-5-1-Numpy1D.ipynb` ; `PY0101EN-5.2_notebook_quizz_numpy.ipynb` ; `PY0101EN-5-2-Numpy2D.ipynb` ; `PY0101EN-5 3_Requests_HTTP.ipynb` ; `PY0101EN-5 2_API_2 v2.ipynb` ; `` 
 
 ---
