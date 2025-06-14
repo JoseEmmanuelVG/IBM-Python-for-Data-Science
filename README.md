@@ -43,6 +43,16 @@ The course is designed to introduce beginners to **Python programming** with a f
 ![IBM PY0101EN Certificate _ Cognitive Class - JEVG](https://github.com/user-attachments/assets/b4953fa2-766d-4fd8-88df-00b3c24ab838)
 
 
+# 🧠 IBM DA0101EN Data Analysis with Python
+
+## 📂 Modules
+
+### [Module 1 - Introduction](./Module_1_Introduction/)
+- [`1.1_introduction_DataAnalysis.md`](./Module_1_Introduction_DataAnalysis/1.1_intro_data_analysis_notes.md): [`1.1_JupyterNotebook`](./Module_1_Introduction_DataAnalysis/1.1_intro_data_analysis_notes.ipynb): Notes and explanations
+- `DA0101EN-Review-Introduction jupyterlite.ipynb`: *Reference notebook Course(not uploaded publicly)*
+
+
+
 ---
 
 ## 📝 Disclaimer
