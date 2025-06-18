@@ -43,7 +43,40 @@ The course is designed to introduce beginners to **Python programming** with a f
 ![IBM PY0101EN Certificate _ Cognitive Class - JEVG](https://github.com/user-attachments/assets/b4953fa2-766d-4fd8-88df-00b3c24ab838)
 
 
-# 🧠 IBM DA0101EN Data Analysis with Python
+---
+---
+
+
+# 🧠 IBM DA0101EN – Data Analysis with Python  - **Notes and Study Guide**
+
+This repository contains personal notes and summaries based on the **IBM DA0101EN - Data Analysis with Python** course, offered through [Cognitive Class](https://cognitiveclass.ai/).  These materials are **not direct copies** of course content. Instead, they represent **individual interpretations and learning notes** created during the course, with the intention of reinforcing key concepts and supporting review.
+
+
+## 📚 Course Overview
+
+The **Data Analysis with Python** course provides a solid foundation in the end-to-end data analysis process using Python. It covers the most essential stages in the data analysis workflow, from raw data acquisition to model evaluation.
+
+This course complements prior foundational training in Python, such as *IBM PY0101EN – Python for Data Science*, by transitioning from syntax and basic structures to applied analysis, modeling, and evaluation.
+
+Throughout this course, you will learn how to:
+
+- Acquire and understand datasets  
+- Clean, transform, and wrangle data  
+- Perform exploratory data analysis (EDA)  
+- Develop predictive models  
+- Evaluate model performance  
+
+Each module builds upon the previous one, creating a comprehensive pipeline for data-driven decision-making in Python.
+
+## 🎯 Objectives
+
+At the end of this course, you will be able to:
+
+- Load and preprocess datasets for analysis  
+- Apply techniques for data wrangling and transformation  
+- Generate descriptive statistics and visualizations for EDA  
+- Develop and train basic regression models  
+- Evaluate models using statistical metrics
 
 ## 📂 Modules
 
