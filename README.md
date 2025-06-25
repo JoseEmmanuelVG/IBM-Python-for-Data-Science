@@ -18,25 +18,28 @@ The course is designed to introduce beginners to **Python programming** with a f
 
 ## 📂 Modules
 
-### [Module 1: Python Basics](./Module_1_Python_Basics/)
-- [`1.1_python_basics_notes.md`](./Module_1_Python_Basics/1.1_python_basics_notes.md): [`1.1_JupyterNotebook`](./Module_1_Python_Basics/1.1_python_basics_notes.ipynb): Notes and explanations
-- `PY0101EN_1.2_notebook_quizz_types.ipynb` ; `PY0101EN-1-1-Write_your_first_python_code.ipynb` ; `PY0101EN-1-2-Strings.ipynb` ; `PY0101EN-1-3-notebook_quizz_String_Operations.ipynb` ; `PY0101EN-1.1_notebook_quizz.ipynb`: *Reference notebook Course(not uploaded publicly)*
+## 📂 Modules
 
-### [Module 2: Data Structures](./Module_2_Data_Structures/)
-- [`2.1_data_structures_notes.md`](./Module_2_Data_Structures/2.1_data_structures_notes.md) : [`2.1_JupyterNotebook`](./Module_2_Data_Structures/2.1_data_structures_notes.ipynb): Notes and explanations
-- `PY0101EN-2-1-Tuples.ipynb` ; `PY0101EN-2-2-Lists.ipynb` ; `PY0101EN-2.2_notebook_quizz_sets.ipynb` ; `PY0101EN-2-3-Sets.ipynb` ; `PY0101EN-2.3_notebook_quizz_dictioary.ipynb` ; `PY0101EN-2-4-Dictionaries.ipynb`: *Reference notebook Course(not uploaded publicly)*
+### [Module 1: Python Basics](./IBM_PY0101EN_Python_for_Data_Science/Module_1_Python_Basics/)
+- [`1.1_python_basics_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_1_Python_Basics/1.1_python_basics_notes.md): [`1.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_1_Python_Basics/1.1_python_basics_notes.ipynb): Notes and explanations
+- `PY0101EN_1.2_notebook_quizz_types.ipynb` ; `PY0101EN-1-1-Write_your_first_python_code.ipynb` ; `PY0101EN-1-2-Strings.ipynb` ; `PY0101EN-1-3-notebook_quizz_String_Operations.ipynb` ; `PY0101EN-1.1_notebook_quizz.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
-### [Module 3: Functions](./Module_3_Functions/)
-- [`3.1_functions_notes.md`](./Module_3_Functions/3.1_functions_notes.md): [`3.1_JupyterNotebook`](./Module_3_Functions/3.1_functions_notes.ipynb): Notes and explanations
-- `PY0101EN-3.1_notebook_quizz_Conditions_and_Branching.ipynb` ; `PY0101EN-3-1-Conditions.ipynb` ; `PY0101EN-3.2_notebook_quizz_Loops.ipynb` ; `PY0101EN-3-2-Loops.ipynb` ; `PY0101EN-3.3_notebook_quizz_functions.ipynb` ; `PY0101EN-3-3-Functions-jupyterlite.ipynb` ; `PY0101EN-3.4_notebook_quizz_objects.ipynb` ; `PY0101EN-3-4-Classes.ipynb` ; `3-1 2ExcecptionHandling.ipynb`: *Reference notebook Course(not uploaded publicly)*
+### [Module 2: Data Structures](./IBM_PY0101EN_Python_for_Data_Science/Module_2_Data_Structures/)
+- [`2.1_data_structures_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_2_Data_Structures/2.1_data_structures_notes.md): [`2.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_2_Data_Structures/2.1_data_structures_notes.ipynb): Notes and explanations
+- `PY0101EN-2-1-Tuples.ipynb` ; `PY0101EN-2-2-Lists.ipynb` ; `PY0101EN-2.2_notebook_quizz_sets.ipynb` ; `PY0101EN-2-3-Sets.ipynb` ; `PY0101EN-2.3_notebook_quizz_dictioary.ipynb` ; `PY0101EN-2-4-Dictionaries.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
-### [Module 4: Working with Data](./Module_4_Working_with_Data/)
-- [`4.1_working_with_data_notes.md`](./Module_4_Working_with_Data/4.1_working_with_data_notes.md); [`4.1_JupyterNotebook`](./Module_4_Working_with_Data/4.1_working_with_data_notes.ipynb): Notes and explanations
-- `PY0101EN-4-1-ReadFile.ipynb` ; `PY0101EN-4-2-WriteFile.ipynb` ; `PY0101EN-4.3_notebook_quizz_pandas.ipynb` ; `PY0101EN-4.4_notebook_quizz_pandas.ipynb` ; `PY0101EN-4-3-LoadData.ipynb` ;
+### [Module 3: Functions](./IBM_PY0101EN_Python_for_Data_Science/Module_3_Functions/)
+- [`3.1_functions_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_3_Functions/3.1_functions_notes.md): [`3.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_3_Functions/3.1_functions_notes.ipynb): Notes and explanations
+- `PY0101EN-3.1_notebook_quizz_Conditions_and_Branching.ipynb` ; `PY0101EN-3-1-Conditions.ipynb` ; `PY0101EN-3.2_notebook_quizz_Loops.ipynb` ; `PY0101EN-3-2-Loops.ipynb` ; `PY0101EN-3.3_notebook_quizz_functions.ipynb` ; `PY0101EN-3-3-Functions-jupyterlite.ipynb` ; `PY0101EN-3.4_notebook_quizz_objects.ipynb` ; `PY0101EN-3-4-Classes.ipynb` ; `3-1 2ExcecptionHandling.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
-### [Module 5: Python Libraries for Data Science](./Module_5_Working_with_NumpyArrays&SimpleAPIs/)
-- [`5.1_libraries_notes.md`](./Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md); [`5.1_JupyterNotebook.md`](./Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.ipynb)
-- `PY0101EN-5.1_notebook_quizz_numpy1d.ipynb` ; `PY0101EN-5-1-Numpy1D.ipynb` ; `PY0101EN-5.2_notebook_quizz_numpy.ipynb` ; `PY0101EN-5-2-Numpy2D.ipynb` ; `PY0101EN-5 3_Requests_HTTP.ipynb` ; `PY0101EN-5 2_API_2 v2.ipynb` ; `` 
+### [Module 4: Working with Data](./IBM_PY0101EN_Python_for_Data_Science/Module_4_Working_with_Data/)
+- [`4.1_working_with_data_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_4_Working_with_Data/4.1_working_with_data_notes.md): [`4.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_4_Working_with_Data/4.1_working_with_data_notes.ipynb): Notes and explanations
+- `PY0101EN-4-1-ReadFile.ipynb` ; `PY0101EN-4-2-WriteFile.ipynb` ; `PY0101EN-4.3_notebook_quizz_pandas.ipynb` ; `PY0101EN-4.4_notebook_quizz_pandas.ipynb` ; `PY0101EN-4-3-LoadData.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
+### [Module 5: Python Libraries for Data Science](./IBM_PY0101EN_Python_for_Data_Science/Module_5_Working_with_NumpyArrays&SimpleAPIs/)
+- [`5.1_libraries_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md): [`5.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.ipynb)
+- `PY0101EN-5.1_notebook_quizz_numpy1d.ipynb` ; `PY0101EN-5-1-Numpy1D.ipynb` ; `PY0101EN-5.2_notebook_quizz_numpy.ipynb` ; `PY0101EN-5-2-Numpy2D.ipynb` ; `PY0101EN-5 3_Requests_HTTP.ipynb` ; `PY0101EN-5 2_API_2 v2.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
 
 ---
 
@@ -80,9 +83,25 @@ At the end of this course, you will be able to:
 
 ## 📂 Modules
 
-### [Module 1 - Introduction](./Module_1_Introduction/)
-- [`1.1_introduction_DataAnalysis.md`](./Module_1_Introduction_DataAnalysis/1.1_intro_data_analysis_notes.md): [`1.1_JupyterNotebook`](./Module_1_Introduction_DataAnalysis/1.1_intro_data_analysis_notes.ipynb): Notes and explanations
-- `DA0101EN-Review-Introduction jupyterlite.ipynb`: *Reference notebook Course(not uploaded publicly)*
+### [Module 1 - Introduction](./IBM_DA0101EN_Data_Analysis_with_Python/Module_1_Introduction/)
+- [`1.1_introduction_DataAnalysis.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_1_Introduction/1.1_intro_data_analysis_notes.md): [`1.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_1_Introduction/1.1_intro_data_analysis_notes.ipynb): Notes and explanations
+- `DA0101EN-Review-Introduction jupyterlite.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
+### [Module 2 - Data Wrangling](./IBM_DA0101EN_Data_Analysis_with_Python/Module_2_Data_Wrangling/)
+- [`2.1_data_wrangling_notes.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_2_Data_Wrangling/2.1_data_wrangling_notes.md): [`2.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_2_Data_Wrangling/2.1_data_wrangling_notes.ipynb): Notes and explanations
+- `DA0101EN-2-Review-Data-Wrangling jupyterlite.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
+### [Module 3 - Exploratory Data Analysis](./IBM_DA0101EN_Data_Analysis_with_Python/Module_3_Exploratory_Data_Analysis/)
+- [`3.1_eda_notes.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_3_Exploratory_Data_Analysis/3.1_eda_notes.md): [`3.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_3_Exploratory_Data_Analysis/3.1_eda_notes.ipynb): Notes and explanations
+- `DA0101EN-3-Review-Exploratory-Data-Analysis jupyterlite.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
+### [Module 4 - Model Development](./IBM_DA0101EN_Data_Analysis_with_Python/Module_4_Model_Development/)
+- [`4.1_model_development_notes.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_4_Model_Development/4.1_model_development_notes.md): [`4.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_4_Model_Development/4.1_model_development_notes.ipynb): Notes and explanations
+- `DA0101EN-4-Review-Model-Development.ipynb`: *Reference notebook Course (not uploaded publicly)*
+
+### [Module 5 – Model Evaluation](./IBM_DA0101EN_Data_Analysis_with_Python/Module_5_Model_Evaluation/)
+- [`5.1_model_evaluation_notes.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_5_Model_Evaluation/5.1_model_evaluation_notes.md): [`5.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_5_Model_Evaluation/5.1_model_evaluation_notes.ipynb): Notes and explanations
+- `DA0101EN-5-Review-Model-Evaluation-and-Refinement.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
 
 
