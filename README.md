@@ -40,7 +40,6 @@ The course is designed to introduce beginners to **Python programming** with a f
 - [`5.1_libraries_notes.md`](./IBM_PY0101EN_Python_for_Data_Science/Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.md): [`5.1_JupyterNotebook`](./IBM_PY0101EN_Python_for_Data_Science/Module_5_Working_with_NumpyArrays&SimpleAPIs/5.1_Working_with_NumpyArrays&SimpleAPIs_Notes.ipynb)
 - `PY0101EN-5.1_notebook_quizz_numpy1d.ipynb` ; `PY0101EN-5-1-Numpy1D.ipynb` ; `PY0101EN-5.2_notebook_quizz_numpy.ipynb` ; `PY0101EN-5-2-Numpy2D.ipynb` ; `PY0101EN-5 3_Requests_HTTP.ipynb` ; `PY0101EN-5 2_API_2 v2.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
-
 ---
 
 ![IBM PY0101EN Certificate _ Cognitive Class - JEVG](https://github.com/user-attachments/assets/b4953fa2-766d-4fd8-88df-00b3c24ab838)
@@ -103,8 +102,12 @@ At the end of this course, you will be able to:
 - [`5.1_model_evaluation_notes.md`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_5_Model_Evaluation/5.1_model_evaluation_notes.md): [`5.1_JupyterNotebook`](./IBM_DA0101EN_Data_Analysis_with_Python/Module_5_Model_Evaluation/5.1_model_evaluation_notes.ipynb): Notes and explanations
 - `DA0101EN-5-Review-Model-Evaluation-and-Refinement.ipynb`: *Reference notebook Course (not uploaded publicly)*
 
+---
+
+![IBM DA0101EN Certificate _ Cognitive Class - JEVG](https://github.com/user-attachments/assets/3c2d2a12-e596-4a92-bdd9-c989cfc56045)
 
 
+---
 ---
 
 ## 📝 Disclaimer
